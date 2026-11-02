@@ -1,7 +1,7 @@
 # Muhannad
 
 **Engineering student specializing in OT/ICS Cybersecurity | Aspiring OT Security Engineer**
-Control Systems · Automation & Networks · IIoT · MQTT · Linux · Python · C++ · OpenPLC · TIA Portal . kalilinux
+Control Systems · Automation & Networks · IIoT · MQTT · Linux · Python · C++ · OpenPLC · TIA Portal 
 
 ESSAT Gabès, Tunisia · Seeking an end-of-studies internship (PFE) starting 2027, France / Europe
 
